@@ -3,7 +3,7 @@ Game of Life
 
 
 This Version of Game of Life is a small practice project including Python, Flask, HTML, CSS, Javascript and JQuery.
-Have fun playing it!
+Have fun playing with it!
 
 Instruction
 ----------------
