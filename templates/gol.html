@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<link rel="stylesheet" type="text/css" href="../static/gol.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script type='text/javascript' src='../static/gol_live.js'></script>
+<script type='text/javascript' src='../static/gol_start.js'></script>
+
+</head>
+
+<body>
+
+<script>
+
+for ( var x = 0; x < {{ population_multi }}; x++){
+     $("body").append("<div class='block-cont'></div>"); 
+     }
+
+for ( var y = 0; y < {{ population_multi }}; y++)
+     {
+     $(".block-cont").append("<div class='block'></div>");    
+     } 
+
+</script>
+
+</body>
+</html>
+
+
+
