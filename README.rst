@@ -21,3 +21,5 @@ Doubleclick somewhere in the <body></body> to start.
 Enjoy the zero-player experience.
 
 Contact me for critic or encouragement!
+
+![alt tag](https://raw.github.com/timmeinhardt/gol/master/example_picture.png)
